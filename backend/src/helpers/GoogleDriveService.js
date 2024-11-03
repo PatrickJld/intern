@@ -39,7 +39,7 @@ class GoogleDriveService{
         });
     }
 
-    searchInParent(folderID){
+    searchInParent(folderID, folderName){
         return new Promise((resolve, reject) => {
             this.driveClient.files.list(
                 {
@@ -58,11 +58,9 @@ class GoogleDriveService{
     }
 
     bufferToStream(buffer){
-        var stream = new Readable();
-        stream.push(buffer);
-        stream.push(null);
-
-        return stream;
+        const passThrough = new stream.PassThrough();
+        passThrough.end(buffer);
+        return passThrough;
     }
 
     saveFile(fileName, fileBuffer, fileMimeType, folderId){
@@ -112,7 +110,7 @@ class GoogleDriveService{
         return this.driveClient.files.delete({fileId:fileId});
     }
 
-    updatePermission(fileId, role, type){
+    updatePermission(fileId, role='reader', type='anyone'){
         return this.driveClient.permissions.create({
             fileId:fileId,
             requestBody:{
