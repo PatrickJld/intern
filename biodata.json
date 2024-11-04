@@ -1,0 +1,220 @@
+{
+  "nama_lengkap": "Lawrence Patrick Sianto",
+  "nama_panggilan": "Lawrence",
+  "alamat_ktp": "Jalan Jalan II",
+  "alamat_skg": "Jalan Jalan III",
+  "no_hp": "0812345678",
+  "ttl": "Surabaya, 01 Januari 1970",
+  "kewarganegaraan": "WNI",
+  "suku": "tionghoa",
+  "agama": "kristen",
+  "usia": "20",
+  "tinggi_badan": "164",
+  "berat_badan": "50.2",
+  "no_identitas": "981231515214561",
+  "golongan_darah": "O",
+  "no_npwp": "123456789",
+  "email": "abc@def.com",
+  "kesehatan": {
+    "keadaan": "baik/kurang sesuai",
+    "cacat": "ya/tidak",
+    "sakit_keras": "ya/tidak",
+    "kapan": "-/januari 2022"
+  },
+  "status_nikah": {
+    "menikah": "ya/tidak",
+    "nama_suami_istri": "perempuan laki",
+    "nama_anak": "anak saya"
+  },
+  "pendidikan": [
+    {
+      "tingkat": "SMP",
+      "jurusan": "IPA",
+      "nama_sekolah": "SMP MASA BODO",
+      "kota": "Surabaya",
+      "tahun_lulus": "2021"
+    },
+    {
+      "tingkat": "SMA",
+      "jurusan": "IPA",
+      "nama_sekolah": "SMA MASA SIH",
+      "kota": "Surabaya",
+      "tahun_lulus": "2022"
+    }
+  ],
+  "alasan_bekerja": "ini deskripsi bla bla bla bla bla",
+  "keluarga": {
+    "orang_tua": [
+      {
+        "nama": "Orang Tua 1",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 1",
+        "pendidikan": "SMA",
+        "pekerjaan": "Ibu Rumah Tangga"
+      },
+      {
+        "nama": "Orang Tua 2",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 2",
+        "pendidikan": "SMA",
+        "pekerjaan": "Arsitek"
+      }
+    ],
+    "istri_suami": [
+      {
+        "nama": "Suami 1",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 3",
+        "pendidikan": "SMA",
+        "pekerjaan": "Chef"
+      },
+      {
+        "nama": "Istri 1",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 4",
+        "pendidikan": "SMA",
+        "pekerjaan": "Dokter"
+      }
+    ],
+    "anak_kandung": [
+      {
+        "nama": "Anak 1",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 4",
+        "pendidikan": "SMA",
+        "pekerjaan": "Chef"
+      },
+      {
+        "nama": "Anak 2",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 5",
+        "pendidikan": "SMA",
+        "pekerjaan": "Dosen"
+      }
+    ],
+    "saudara_kandung": [
+      {
+        "nama": "Saudara 1",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 6",
+        "pendidikan": "SMA",
+        "pekerjaan": "Guru"
+      },
+      {
+        "nama": "Saudara 2",
+        "ttl": "Surabaya, 01 Januari 1970",
+        "alamat": "Jalan Alamat 7",
+        "pendidikan": "SMA",
+        "pekerjaan": "Penjual Jamu"
+      }
+    ]
+  },
+  "riwayat_pekerjaan": {
+    "riwayat": [
+      {
+        "dari": "01 Januari 1970",
+        "sampai": "02 Januari 1970",
+        "nama_perusahaan": "PT ABADI ABADI",
+        "kota": "Pasuruan",
+        "bidang_usaha": "Pertanian",
+        "jabatan": "Manager Agrikultur"
+      },
+      {
+        "dari": "01 Januari 1970",
+        "sampai": "02 Januari 1970",
+        "nama_perusahaan": "PT MAKMUR MAKMUR",
+        "kota": "Bojonegoro",
+        "bidang_usaha": "Perikanan",
+        "jabatan": "Manager Lele"
+      }
+    ],
+    "gaji_diperoleh": "saya di perusahaan a dibayar sebanyak 7jt tapi di perusahaan b saya ga digaji",
+    "alasan_berhenti": "di perusahaan a saya ketauan mencuri 10 gagang sapu tapi di perusahaan b saya ga sengaja bakar ruangan bos saya"
+  },
+  "training_kursus": [
+    {
+      "materi": "Materi 1",
+      "penyelenggara": "UD SEJAHTERA ABADI",
+      "tahun": "2022",
+      "tempat": "Alamat 1"
+    },
+    {
+      "materi": "Materi 2",
+      "penyelenggara": "UD SEJAHTERA ABADI",
+      "tahun": "2023",
+      "tempat": "Alamat 2"
+    }
+  ],
+  "organisasi": [
+    {
+      "nama": "Organisasai 1",
+      "tempat": "ISTTS",
+      "masa": "2002-2010",
+      "jabatan": "Ketua Provinsional"
+    },
+    {
+      "nama": "Organisasai 2",
+      "tempat": "ITS",
+      "masa": "1970-2022",
+      "jabatan": "Jabatan Menjamin Kesejahteraan"
+    }
+  ],
+  "bahasa_dikuasai": [
+    {
+      "bahasa": "Indonesia",
+      "berbicara": "kurang/cukup/baik",
+      "menulis": "kurang/cukup/baik",
+      "mendengar": "kurang/cukup/baik"
+    }
+  ],
+  "keterangan_kerja": {
+    "lama_berhenti_kerja": "kira-kira 10 tahun sebelum",
+    "bisa_mulai_bekerja": "sekarang bole",
+    "kenalan_perusahaan": "ya/tidak",
+    "kenalan": {
+      "nama": "Orang 1",
+      "alamat": "Alamat 1",
+      "jabatan": "Pegawai Marketing"
+    }
+  },
+  "pelatihan_kerja": "ya/tidak",
+  "tujuan_kerja": "saya ingin kerja karena ini",
+  "kendaraan": {
+    "keterangan": "Mobil L 1234 AB",
+    "kepemilikan": "pribadi/ortu/saudara/dll"
+  },
+  "hobi": "hobi sayaaaaa",
+  "harapan_gaji": "ah saya mau gaji 10jt per hari",
+  "masalah_hukum": "pernah masalah hukum ga yaa hmmm",
+  "kelebihan": "kelebihan saya pertama adalah",
+  "kekurangan": "kekurangan saya pertama adalah",
+  "kepuasan_keadaan_diri": "saya sangat puas",
+  "prestasi": [
+    {
+      "jenis": "binaraga",
+      "bidang": "olahraga",
+      "tahun": "2022"
+    },
+    {
+      "jenis": "aktor terbaik",
+      "bidang": "film",
+      "tahun": "2019"
+    }
+  ],
+  "seni_dikuasai": {
+    "jenis": ["musik", "suara", "lukisan"]
+  },
+  "orang_terdekat": [
+    {
+      "nama": "Orang 1",
+      "alamat": "Alamat 1",
+      "telepon": "0812345678"
+    },
+    {
+      "nama": "Orang 2",
+      "alamat": "Alamat 2",
+      "telepon": "0812345678"
+    }
+  ],
+  "tanggal_biodata": "Malang, 20 Januari 2022"
+}
